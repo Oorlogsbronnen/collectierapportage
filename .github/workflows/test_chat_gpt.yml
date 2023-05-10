@@ -1,0 +1,49 @@
+name: Generate Document
+
+on:
+  push:
+    branches:
+      - main
+  pull_request:
+    branches:
+      - main
+
+jobs:
+  generate_document:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Set up Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: 3.x
+
+      - name: Install dependencies
+        run: pip install diff-match-patch
+
+      - name: Generate document
+        run: |
+          # Get the changes between the current commit and the previous commit
+          CHANGED_FILES=$(git diff --name-only HEAD^..HEAD)
+
+          # Check if the specific file of interest is in the changed files
+          if echo "$CHANGED_FILES" | grep -q "/report.json"; then
+            # Get the diff of the specific file
+            DIFF=$(git diff HEAD^..HEAD /report.json.txt)
+            
+            # Extract the changed lines with the changes in numbers
+            CHANGED_LINES=$(echo "$DIFF" | grep -E "^[+-][0-9]+.*$" | sed -E "s/^[+-]([0-9]+).*$/\1/g")
+
+            # Generate the document
+            echo "Changes in numbers:"
+            echo "$CHANGED_LINES" > changed_lines.txt
+          fi
+          
+      - name: Upload document artifact
+        uses: actions/upload-artifact@v2
+        with:
+          name: changed-lines-document
+          path: changed_lines.txt
