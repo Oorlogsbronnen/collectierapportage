@@ -5,6 +5,7 @@
 {"collection":"andb_iisg","lastUpdate":"2023-08-08","duration":"21600","content":[{"Person":27678},{"Event":27510},{"CreativeWork":27746}]}
 {"collection":"annes_wereld","lastUpdate":"2023-08-08","duration":"145308","content":[{"Event":734},{"Person":429}]}
 {"collection":"arbeidsinzet","lastUpdate":"2023-08-08","duration":"140517","content":[]}
+{ "collection": "arbeidsinzet_integrated", "error": "no data loaded", "content": []}
 {"collection":"archieven_alkmaar","lastUpdate":"2023-09-30","duration":"376031","content":[{"ArchiveFile":73171},{"Archive":78}]}
 {"collection":"archieven_batavialand","lastUpdate":"2023-08-08","duration":"166444","content":[{"ArchiveFile":1577}]}
 {"collection":"archieven_bhic","lastUpdate":"2023-09-30","duration":"487371","content":[{"ArchiveFile":95929},{"Archive":111}]}
@@ -196,6 +197,7 @@
 {"collection":"paspoorten_amsterdam","lastUpdate":"2023-08-16","duration":"248026","content":[{"Person":84578},{"Event":84369},{"CreativeWork":125550}]}
 {"collection":"personen_bij_bombardementen","lastUpdate":"2023-08-08","duration":"389953","content":[]}
 {"collection":"personen_het_utrechts_archief","lastUpdate":"2023-09-17","duration":"10004","content":[{"Person":18153},{"Event":24925}]}
+{ "collection": "persons", "error": "no data loaded", "content": []}
 {"collection":"radio_broadcasts_radio_de_branda","lastUpdate":"2023-08-08","duration":"375813","content":[{"AudioObject":12}]}
 {"collection":"radio_broadcasts_radio_herrijzen","lastUpdate":"2023-08-08","duration":"317913","content":[{"AudioObject":75},{"Photograph":1}]}
 {"collection":"radio_broadcasts_radio_oranje","lastUpdate":"2023-08-08","duration":"271798","content":[{"AudioObject":180}]}
@@ -208,6 +210,7 @@
 {"collection":"razzia_van_twente","lastUpdate":"2023-08-08","duration":"237372","content":[{"Person":103}]}
 {"collection":"research_anne_frank_org","lastUpdate":"2023-08-21","duration":"960","content":[{"Event":739},{"Person":408},{"CreativeWork":101}]}
 {"collection":"residence_links","lastUpdate":"2023-08-08","duration":"334704","content":[]}
+{ "collection": "residences", "error": "no data loaded", "content": []}
 {"collection":"rijksmuseum","lastUpdate":"2023-09-30","duration":"581683","content":[{"Photograph":908},{"VisualArtwork":1583}]}
 {"collection":"rodekruiskaarten_cbg","lastUpdate":"2023-08-29","duration":"3937","content":[{"Person":9535},{"Event":17911}]}
 {"collection":"romaensinti","lastUpdate":"2023-09-30","duration":"476348","content":[{"Person":249},{"Event":1617}]}
