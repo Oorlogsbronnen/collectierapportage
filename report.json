@@ -239,7 +239,11 @@
 {"collection":"verliesregister","lastUpdate":"2023-09-13","duration":"4960","content":[{"Event":6011},{"Person":16756}]}
 {"collection":"vervolgings_slachtoffers","lastUpdate":"2023-10-07","duration":"173336","content":[{"Person":102890},{"Event":205258}]}
 {"collection":"verzetskaarten_ovcg","lastUpdate":"2023-09-30","duration":"320452","content":[{"Event":3785},{"Person":2628},{"CreativeWork":2623},{"Concept":8}]}
-"Event":2020}]}
+{"collection":"video_friesfilmarchief","lastUpdate":"2023-08-08","duration":"328536","content":[{"VideoObject":75}]}
+{"collection":"video_getuigenverhalen","lastUpdate":"2023-09-30","duration":"110381","content":[{"VideoObject":772}]}
+{"collection":"video_ihlia","lastUpdate":"2023-08-08","duration":"408","content":[{"VideoObject":67}]}
+{"collection":"video_oorloginblik","lastUpdate":"2023-08-08","duration":"350240","content":[]}
+{"collection":"vrouwen_in_verzet","lastUpdate":"2023-08-08","duration":"430127","content":[{"Person":944},{"Event":2020}]}
 {"collection":"v_wapens","lastUpdate":"2023-08-08","duration":"764","content":[{"Event":1109}]}
 {"collection":"wangerooge","lastUpdate":"2023-09-30","duration":"448863","content":[{"Person":315},{"Event":1004}]}
 {"collection":"westerborkkaarten_rotterdam","lastUpdate":"2023-08-08","duration":"46829","content":[{"Person":468},{"Event":1398}]}
