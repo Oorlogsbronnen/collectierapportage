@@ -10,7 +10,7 @@
 {"collection":"archieven_batavialand","lastUpdate":"2023-08-08","duration":"166444","content":[{"ArchiveFile":1577}]}
 {"collection":"archieven_bhic","lastUpdate":"2023-09-30","duration":"487371","content":[{"ArchiveFile":95929},{"Archive":111}]}
 {"collection":"archieven_de_domijnen","lastUpdate":"2023-09-30","duration":"499338","content":[{"ArchiveFile":2013},{"Archive":9}]}
-{"collection":"archieven_denbosch","lastUpdate":"2023-10-25","duration":"585","content":[{"Archive":225}]}
+{"collection":"archieven_denbosch","lastUpdate":"2023-10-26","duration":"2640","content":[{"Archive":225}]}
 {"collection":"archieven_denhaag","lastUpdate":"2023-08-08","duration":"3000","content":[{"Archive":1},{"ArchiveFile":372},{"ArchiveSeries":868}]}
 {"collection":"archieven_eemland","lastUpdate":"2023-09-30","duration":"496873","content":[{"ArchiveFile":3091},{"Archive":89}]}
 {"collection":"archieven_geldersarchief","lastUpdate":"2023-09-30","duration":"821501","content":[{"ArchiveFile":1234},{"Archive":4}]}
@@ -40,7 +40,7 @@
 {"collection":"beeldbank_bhic","lastUpdate":"2023-09-30","duration":"1339361","content":[{"Photograph":2923}]}
 {"collection":"beeldbank_breda","lastUpdate":"2023-09-30","duration":"292064","content":[{"Photograph":1963},{"CreativeWork":4}]}
 {"collection":"beeldbank_coda","lastUpdate":"2023-09-30","duration":"110704","content":[{"Photograph":2409}]}
-{"collection":"beeldbank_denbosch","lastUpdate":"2023-10-25","duration":"15859","content":[{"Photograph":3001},{"VideoObject":1},{"VisualArtwork":4},{"CreativeWork":6}]}
+{"collection":"beeldbank_denbosch","lastUpdate":"2023-10-26","duration":"21011","content":[{"Photograph":3001},{"VideoObject":1},{"VisualArtwork":4},{"CreativeWork":6}]}
 {"collection":"beeldbank_denhaag","lastUpdate":"2023-09-30","duration":"225954","content":[{"Photograph":13038}]}
 {"collection":"beeldbank_ede","lastUpdate":"2023-09-30","duration":"606124","content":[{"Photograph":2028},{"Book":485},{"VideoObject":7}]}
 {"collection":"beeldbank_eemland","lastUpdate":"2023-09-30","duration":"2987","content":[{"Photograph":1289}]}
@@ -48,7 +48,7 @@
 {"collection":"beeldbank_geldersarchief","lastUpdate":"2023-09-30","duration":"826955","content":[{"Photograph":5888},{"Book":323}]}
 {"collection":"beeldbank_gemert","lastUpdate":"2023-09-30","duration":"1076","content":[{"Photograph":88}]}
 {"collection":"beeldbank_gooienvecht","lastUpdate":"2023-09-30","duration":"703240","content":[{"Photograph":400},{"CreativeWork":7},{"VideoObject":20}]}
-{"collection":"beeldbank_hcl","lastUpdate":"2023-10-25","duration":"10156","content":[{"Photograph":1419}]}
+{"collection":"beeldbank_hcl","lastUpdate":"2023-10-26","duration":"17556","content":[{"Photograph":1419}]}
 {"collection":"beeldbank_hclimburg","lastUpdate":"2023-09-30","duration":"1381827","content":[{"Photograph":945}]}
 {"collection":"beeldbank_hco","lastUpdate":"2023-09-30","duration":"202878","content":[{"Book":109},{"Photograph":7397},{"CreativeWork":216},{"VideoObject":1030}]}
 {"collection":"beeldbank_heemkring_molenheide","lastUpdate":"2023-08-08","duration":"29743","content":[{"Photograph":475}]}
@@ -98,8 +98,8 @@
 {"collection":"collectie_ehri","lastUpdate":"2023-09-30","duration":"314328","content":[{"Archive":99604}]}
 {"collection":"collectie_gelderland","lastUpdate":"2023-09-30","duration":"64223","content":[{"Book":93},{"CreativeWork":52704},{"Photograph":20760}]}
 {"collection":"collectie_hdc__protestants_erfgo","lastUpdate":"2023-09-03","duration":"38441","content":[{"ArchiveFile":362},{"Archive":9}]}
-{"collection":"collectie_ihc","lastUpdate":"2023-10-25","duration":"889","content":[{"CreativeWork":1676}]}
-{"collection":"collectie_jck","lastUpdate":"2023-10-02","duration":"558","content":[{"CreativeWork":767}]}
+{"collection":"collectie_ihc","lastUpdate":"2023-10-26","duration":"1094","content":[{"CreativeWork":1676}]}
+{"collection":"collectie_jck","lastUpdate":"2023-10-26","duration":"21614","content":[{"CreativeWork":4943}]}
 {"collection":"collectie_kopinsky","lastUpdate":"2023-09-30","duration":"192383","content":[{"VisualArtwork":63}]}
 {"collection":"collectie_mhmuseum","lastUpdate":"2023-09-30","duration":"462152","content":[{"Photograph":839}]}
 {"collection":"collectie_museon","lastUpdate":"2023-09-30","duration":"541083","content":[{"CreativeWork":10527},{"Photograph":2017},{"Book":989}]}
@@ -107,7 +107,7 @@
 {"collection":"collectie_onderduikmuseum","lastUpdate":"2023-08-08","duration":"198858","content":[]}
 {"collection":"collectie_openbeelden","lastUpdate":"2023-09-30","duration":"271845","content":[{"VideoObject":699}]}
 {"collection":"collectie_oranjehotel","lastUpdate":"2023-09-26","duration":"4076","content":[]}
-{"collection":"collectie_verzetsmuseumamsterdam","lastUpdate":"2023-10-25","duration":"2254","content":[{"CreativeWork":6649}]}
+{"collection":"collectie_verzetsmuseumamsterdam","lastUpdate":"2023-10-26","duration":"4661","content":[{"CreativeWork":6649}]}
 {"collection":"collectie_westerbork","lastUpdate":"2023-08-08","duration":"188589","content":[]}
 {"collection":"crowdsourcing_vught","lastUpdate":"2023-09-30","duration":"219442","content":[{"Person":25830},{"Event":58418}]}
 {"collection":"dans_oh_gv","lastUpdate":"2023-09-30","duration":"492794","content":[{"AudioObject":736}]}
@@ -115,7 +115,7 @@
 {"collection":"defensie_rafpiloten","lastUpdate":"2023-08-08","duration":"137735","content":[{"Person":900},{"Event":1800}]}
 {"collection":"delpher","lastUpdate":"2023-08-08","duration":"6034","content":[{"Concept":14},{"Article":36037}]}
 {"collection":"documentatiegroep","lastUpdate":"2023-08-08","duration":"161794","content":[{"Person":23598},{"Event":28685}]}
-{"collection":"drupal","lastUpdate":"2023-10-25","duration":"1660","content":[{"Person":4},{"VideoObject":52}]}
+{"collection":"drupal","lastUpdate":"2023-10-26","duration":"1970","content":[{"Person":4},{"VideoObject":52}]}
 {"collection":"duitseoverlijdensaktes_cbg","lastUpdate":"2023-10-09","duration":"8265","content":[{"Person":17429},{"Event":34483},{"CreativeWork":17288}]}
 {"collection":"dwangarbeiders_ss","lastUpdate":"2023-08-16","duration":"247442","content":[{"Event":5391},{"Person":1535}]}
 {"collection":"engelandvaarders","lastUpdate":"2023-10-19","duration":"6242","content":[{"Person":2168},{"Event":2168}]}
@@ -128,7 +128,7 @@
 {"collection":"gevangenis_oranjehotelniod","lastUpdate":"2023-10-12","duration":"390","content":[]}
 {"collection":"gevangenis_oranjehotelweber","lastUpdate":"2023-10-11","duration":"268","content":[]}
 {"collection":"ggc_niod","lastUpdate":"2023-09-30","duration":"489401","content":[{"Book":77232}]}
-{"collection":"gvn_evdo01","lastUpdate":"2023-10-25","duration":"533","content":[{"Book":802}]}
+{"collection":"gvn_evdo01","lastUpdate":"2023-10-26","duration":"704","content":[{"Book":802}]}
 {"collection":"gvn_evdo02","lastUpdate":"2023-08-08","duration":"14954","content":[{"Photograph":2936},{"Concept":1}]}
 {"collection":"gvn_evdo03","lastUpdate":"2023-08-08","duration":"1739","content":[{"Book":6151}]}
 {"collection":"gvn_geldmuseum01","lastUpdate":"2023-08-16","duration":"25504","content":[{"CreativeWork":390}]}
@@ -170,7 +170,7 @@
 {"collection":"koopvaardij_nimh","lastUpdate":"2023-08-16","duration":"86625","content":[{"Person":30038},{"Event":21458},{"Concept":30038},{"CreativeWork":30038}]}
 {"collection":"leden_ordedienst_na","lastUpdate":"2023-08-08","duration":"67292","content":[{"Person":1680},{"Event":1704}]}
 {"collection":"lolkp_necrologie","lastUpdate":"2023-08-08","duration":"420042","content":[{"Person":1671},{"Event":588}]}
-{"collection":"luchtoorlog_persoonlijke_gebeurt","lastUpdate":"2023-10-25","duration":"2368","content":[{"Person":26},{"Event":129}]}
+{"collection":"luchtoorlog_persoonlijke_gebeurt","lastUpdate":"2023-10-26","duration":"2874","content":[{"Person":26},{"Event":129}]}
 {"collection":"manual_links","lastUpdate":"2023-10-25","duration":"2617","content":[]}
 {"collection":"manual_object_links","lastUpdate":"2023-10-21","duration":"3098","content":[]}
 {"collection":"marktkaarten_amsterdam","lastUpdate":"2023-08-08","duration":"238747","content":[{"Person":50957},{"Event":49214},{"CreativeWork":60961}]}
@@ -181,14 +181,14 @@
 {"collection":"muziek_som","lastUpdate":"2023-09-30","duration":"509374","content":[{"SheetMusic":1939}]}
 {"collection":"neerlandschverzetsmonument","lastUpdate":"2023-08-16","duration":"405889","content":[{"Person":58269}]}
 {"collection":"nl_joden_bergen_belsen","lastUpdate":"2023-09-03","duration":"43153","content":[{"Person":4195},{"Event":20527}]}
-{"collection":"obol","lastUpdate":"2023-10-25","duration":"6658","content":[{"Person":2495},{"Event":4193},{"CreativeWork":414}]}
+{"collection":"obol","lastUpdate":"2023-10-26","duration":"10314","content":[{"Person":2496},{"Event":4198},{"CreativeWork":415}]}
 {"collection":"ogs","lastUpdate":"2023-10-21","duration":"105854","content":[{"Person":181049},{"Event":348922},{"CreativeWork":7774}]}
 {"collection":"onderduikkaarten_tresoar","lastUpdate":"2023-08-08","duration":"61343","content":[{"Person":1584},{"Event":3168},{"CreativeWork":1581}]}
 {"collection":"oorlogsdoden_eindhoven","lastUpdate":"2023-09-30","duration":"287645","content":[{"Event":2409},{"Person":1237},{"CreativeWork":495}]}
 {"collection":"oorlogsdoden_nijmegen","lastUpdate":"2023-10-22","duration":"12227","content":[{"Person":4577},{"Event":7956}]}
 {"collection":"oorlogsdoden_tilburg","lastUpdate":"2023-08-08","duration":"232046","content":[{"Person":762},{"Event":1524},{"CreativeWork":230}]}
 {"collection":"oorlogslevens_gebeurtenissen","lastUpdate":"2023-08-08","duration":"391550","content":[{"Person":338},{"Event":426}]}
-{"collection":"oorlogslevens_organisaties","lastUpdate":"2023-10-25","duration":"2206","content":[]}
+{"collection":"oorlogslevens_organisaties","lastUpdate":"2023-10-26","duration":"2162","content":[]}
 {"collection":"oorlogsmonumenten","lastUpdate":"2023-08-08","duration":"2927","content":[{"Monument":4162}]}
 {"collection":"oproepkaarten_breda","lastUpdate":"2023-08-08","duration":"412859","content":[{"Event":158},{"Person":108}]}
 {"collection":"overlijdensaktes_openarchives","lastUpdate":"2023-08-08","duration":"23371","content":[{"Person":11964},{"Event":11964},{"CreativeWork":7059}]}
@@ -237,7 +237,7 @@
 {"collection":"vancouver_holocaust_education_ce","lastUpdate":"2023-08-08","duration":"183079","content":[{"Book":273},{"CreativeWork":136},{"Photograph":90},{"VideoObject":29}]}
 {"collection":"verkaufsbucher_na","lastUpdate":"2023-08-08","duration":"498909","content":[{"Person":7048}]}
 {"collection":"verliesregister","lastUpdate":"2023-09-13","duration":"4960","content":[{"Event":6011},{"Person":16756}]}
-{"collection":"vervolgings_slachtoffers","lastUpdate":"2023-10-25","duration":"44676","content":[{"Person":102906},{"Event":205287}]}
+{"collection":"vervolgings_slachtoffers","lastUpdate":"2023-10-26","duration":"47562","content":[{"Person":102906},{"Event":205287}]}
 {"collection":"verzetskaarten_ovcg","lastUpdate":"2023-09-30","duration":"320452","content":[{"Event":3785},{"Person":2628},{"CreativeWork":2623},{"Concept":8}]}
 {"collection":"video_friesfilmarchief","lastUpdate":"2023-08-08","duration":"328536","content":[{"VideoObject":75}]}
 {"collection":"video_getuigenverhalen","lastUpdate":"2023-09-30","duration":"110381","content":[{"VideoObject":772}]}
@@ -248,10 +248,10 @@
 {"collection":"wangerooge","lastUpdate":"2023-09-30","duration":"448863","content":[{"Person":315},{"Event":1004}]}
 {"collection":"westerborkkaarten_rotterdam","lastUpdate":"2023-08-08","duration":"46829","content":[{"Person":468},{"Event":1398}]}
 {"collection":"wikidata_straten","lastUpdate":"2023-08-08","duration":"168970","content":[]}
-{"collection":"wo2_biografieen","lastUpdate":"2023-10-25","duration":"3397","content":[{"Person":2925},{"Event":5408},{"CreativeWork":1464}]}
-{"collection":"wo2_manual_matches","lastUpdate":"2023-10-25","duration":"21515","content":[{"Person":4179},{"Event":3414},{"CreativeWork":6},{"Concept":35}]}
+{"collection":"wo2_biografieen","lastUpdate":"2023-10-26","duration":"3255","content":[{"Person":2925},{"Event":5408},{"CreativeWork":1464}]}
+{"collection":"wo2_manual_matches","lastUpdate":"2023-10-26","duration":"23399","content":[{"Person":4179},{"Event":3414},{"CreativeWork":6},{"Concept":35}]}
 {"collection":"wo2_memberof","lastUpdate":"2023-10-21","duration":"10110","content":[]}
-{"collection":"wo2_organizations","lastUpdate":"2023-10-25","duration":"797","content":[{"Concept":645},{"SpatialThing":601},{"ConceptScheme":2}]}
-{"collection":"wo2_thesaurus","lastUpdate":"2023-10-25","duration":"3858","content":[{"Concept":16601},{"Event":3638},{"SpatialThing":10844},{"organizationsWO2/PersonalEvent":58},{"ConceptScheme":7}]}
+{"collection":"wo2_organizations","lastUpdate":"2023-10-26","duration":"564","content":[{"Concept":645},{"SpatialThing":601},{"ConceptScheme":2}]}
+{"collection":"wo2_thesaurus","lastUpdate":"2023-10-26","duration":"2564","content":[{"Concept":16601},{"Event":3638},{"SpatialThing":10844},{"organizationsWO2/PersonalEvent":58},{"ConceptScheme":7}]}
 {"collection":"wordsmatter","lastUpdate":"2023-08-08","duration":"158970","content":[{"Person":3}]}
 {"collection":"yad_vashem_archive_netherlands","lastUpdate":"2023-08-16","duration":"24292","content":[{"Person":1638},{"Event":2569}]}
