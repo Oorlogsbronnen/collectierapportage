@@ -228,7 +228,11 @@
 {"collection":"subject_sport","lastUpdate":"2023-08-08","duration":"408618","content":[{"Person":1264},{"Concept":2481},{"Event":864}]}
 {"collection":"test_dataset_adamlink","lastUpdate":"2023-09-06","duration":"18317","content":[]}
 {"collection":"tewerkstelling_amsterdam","lastUpdate":"2023-08-08","duration":"285491","content":[{"Person":63200},{"Event":182373}]}
-tigingskampen","lastUpdate":"2023-09-30","duration":"530769","content":[{"Event":1003},{"SpatialThing":964},{"Concept":964}]}
+{"collection":"toegangsboek_dachau_reinie","lastUpdate":"2023-08-08","duration":"307173","content":[{"Event":7695},{"Person":1693}]}
+{"collection":"transport_buchenwald","lastUpdate":"2023-08-08","duration":"510624","content":[{"Event":333},{"Person":70}]}
+{"collection":"transporten_auschwitz","lastUpdate":"2023-08-08","duration":"330622","content":[{"Person":3231},{"Event":12758}]}
+{"collection":"transporten_cosel","lastUpdate":"2023-08-08","duration":"337278","content":[{"Person":108},{"Event":524}]}
+{"collection":"transporten_vernietigingskampen","lastUpdate":"2023-09-30","duration":"530769","content":[{"Event":1003},{"SpatialThing":964},{"Concept":964}]}
 {"collection":"transporten_westerborksobibor","lastUpdate":"2023-08-16","duration":"170441","content":[{"Person":34239},{"Event":68395}]}
 {"collection":"vancouver_holocaust_education_ce","lastUpdate":"2023-08-08","duration":"183079","content":[{"Book":273},{"CreativeWork":136},{"Photograph":90},{"VideoObject":29}]}
 {"collection":"verkaufsbucher_na","lastUpdate":"2023-08-08","duration":"498909","content":[{"Person":7048}]}
