@@ -1,9 +1,6 @@
 // Assuming your JSON file is named all_reports.json in the root of your repository
 const jsonFilePath = 'all_reports.json';
 
-// Assuming your JSON file is named all_reports.json in the root of your repository
-const jsonFilePath = 'all_reports.json';
-
 // Fetch the JSON file
 fetch(jsonFilePath)
   .then(response => response.text()) // Read the file as text
