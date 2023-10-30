@@ -1,16 +1,25 @@
 // Assuming your JSON file is named all_reports.json in the root of your repository
 const jsonFilePath = 'all_reports.json';
 
+// Assuming your JSON file is named all_reports.json in the root of your repository
+const jsonFilePath = 'all_reports.json';
+
 // Fetch the JSON file
 fetch(jsonFilePath)
-  .then(response => response.json())
-  .then(jsonData => {
-    // Your existing code that processes the jsonData
-    const data = jsonData.map(entry => ({
-      collection: entry.collection,
-      contentCount: entry.content.length,
-      lastUpdate: new Date(entry.lastUpdate),
-    }));
+  .then(response => response.text()) // Read the file as text
+  .then(jsonText => {
+    // Split the text into lines
+    const lines = jsonText.split(/\n/);
+
+    // Data processing logic
+    const data = lines.map(line => {
+      const entry = JSON.parse(line.trim());
+      return entry.flatMap(entryItem => entryItem.content.map(contentItem => ({
+        collection: entryItem.collection,
+        contentCount: Object.keys(contentItem).length,
+        lastUpdate: new Date(entryItem.lastUpdate),
+      })));
+    }).flat();
 
     // Set up D3.js
     const svg = d3.select("#visualization")
