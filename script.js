@@ -13,12 +13,17 @@ fetch(jsonFilePath)
 
     // Data processing logic
     const data = lines.map(line => {
-      const entry = JSON.parse(line.trim());
-      return entry.flatMap(entryItem => entryItem.content.map(contentItem => ({
-        collection: entryItem.collection,
-        contentCount: Object.keys(contentItem).length,
-        lastUpdate: new Date(entryItem.lastUpdate),
-      })));
+      try {
+        const entry = JSON.parse(line.trim());
+        return entry.flatMap(entryItem => entryItem.content.map(contentItem => ({
+          collection: entryItem.collection,
+          contentCount: Object.keys(contentItem).length,
+          lastUpdate: new Date(entryItem.lastUpdate),
+        })));
+      } catch (error) {
+        console.error('Error parsing JSON line:', error);
+        return []; // Return an empty array for lines with parsing errors
+      }
     }).flat();
 
     // Set up D3.js
