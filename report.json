@@ -203,9 +203,8 @@
 {"collection":"transporten_vernietigingskampen","lastUpdate":"2024-03-28","duration":"458","content":[{"SpatialThing":964},{"Concept":964},{"Event":1003}]}
 {"collection":"transporten_westerborksobibor","lastUpdate":"2024-03-28","duration":"5278","content":[{"Person":34239},{"Ev{"collection":{"collection":"vancouver_holocaust_education_ce","lastUpdate":"2023-11-10","duration":"53160","content":[{"Book":273},{"CreativeWork":136},{"Photograph":90},{"Video{"collection":{"collection":"verkaufsbucher_na","lastUpdate":"2023-11-10","duration":"9968","content":[{"Person":7048}]}
 {"collection":"verliesregister","lastUpdate":"2024-02-27","duration":"73888","content":[{"Event":6011},{"Person":16756}]}
-{"collection":"vervolgings_slachtoffers","lastUpdate":"2024-03-31","duration":"391436","content":[{"Person":102931},{"Eve{"collection":"verzetskaarten_ovcg","lastUpdate":"2024-03-31","duration":"162408","content":[{"Event":3785},{"Person":2628},{"CreativeWork":2623},{"Concept":8}]}
-on":"verzetskaarten_ovcg","lastUpdate":"2024-03-31","duration":"162408","content":[{"Event":3785},{"Person":2628},{"CreativeWork":2623},{"Concept":8}]}
-{"collection":"video_friesfilmarchief","lastUpdate":"2023-11-10","duration":"204619","content":[{"VideoObject":75}]}
+{"collection":"vervolgings_slachtoffers","lastUpdate":"2024-03-31","duration":"391436","content":[{"Person":102931},{"Eve{"collection":{"collection":"verzetskaarten_ovcg","lastUpdate":"2024-03-31","duration":"162408","content":[{"Event":3785},{"Person":2628},{"CreativeWork":2623},{"{"collection":{"collection":"video_friesfilmarchief","lastUpdate":"2023-11-10","duration":"204619","content":[{"Video{"collection":{"collection":"video_getuigenverhalen","lastUpdate":"2024-03-31","duration":"314885","content":[{"VideoObject":772}]}
+"VideoObject":75}]}
 {"collection":"video_getuigenverhalen","lastUpdate":"2024-03-31","duration":"314885","content":[{"VideoObject":772}]}
 {"collection":"video_ihlia","lastUpdate":"2023-11-10","duration":"204843","content":[{"VideoObject":67}]}
 {"collection":"video_oorloginblik","lastUpdate":"2023-11-10","duration":"289472","content":[]}
@@ -218,6 +217,6 @@ on":"verzetskaarten_ovcg","lastUpdate":"2024-03-31","duration":"162408","content
 {"collection":"wo2_manual_matches","lastUpdate":"2024-03-13","duration":"3045","content":[{"Person":4087},{"Event":3323},{"Concept":35},{"CreativeWork":6}]}
 {"collection":"wo2_memberof","lastUpdate":"2024-03-28","duration":"353","content":[]}
 {"collection":"wo2_organizations","lastUpdate":"2024-04-04","duration":"50657","content":[{"Concept":666},{"SpatialThing":621},{"ConceptScheme":2}]}
-"2024-04-08","duration":"2752","content":[{"Concept":16734},{"organizationsWO2/PersonalEvent":59},{"SpatialThing":10809},{"Event":3586},{"ConceptScheme":6}]}
+{"collection":"wo2_thesaurus","lastUpdate":"2024-04-08","duration":"2752","content":[{"Concept":16734},{"organizationsWO2/PersonalEvent":59},{"SpatialThing":10809},{"Event":3586},{"ConceptScheme":6}]}
 {"collection":"wordsmatter","lastUpdate":"2023-11-10","duration":"1256799","content":[{"Person":3}]}
 {"collection":"yad_vashem_archive_netherlands","lastUpdate":"2023-11-10","duration":"777","content":[{"Person":1638},{"Event":2569}]}
