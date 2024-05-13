@@ -114,7 +114,7 @@
 {"collection":"defensie_rafpiloten","lastUpdate":"2024-03-28","duration":"638","content":[{"Event":1800},{"Person":900}]}
 {"collection":"delpher","lastUpdate":"2023-11-10","duration":"2038233","content":[{"Concept":14},{"Article":36037}]}
 {"collection":"documentatiegroep","lastUpdate":"2024-04-25","duration":"7226","content":[{"Person":23598},{"Event":28685}]}
-{"collection":"drupal","lastUpdate":"2024-05-11","duration":"9453","content":[{"VideoObject":59},{"Person":5}]}
+{"collection":"drupal","lastUpdate":"2024-05-12","duration":"3566","content":[{"VideoObject":59},{"Person":5}]}
 {"collection":"duitseoverlijdensaktes_cbg","lastUpdate":"2024-03-28","duration":"4887","content":[{"Person":17195},{"Event":34099},{"CreativeWork":17092}]}
 {"collection":"dwangarbeiders_ss","lastUpdate":"2023-12-08","duration":"960","content":[{"Event":5391},{"Person":1535}]}
 {"collection":"engelandvaarders","lastUpdate":"2024-04-02","duration":"52201","content":[{"Person":2150},{"Event":3335}]}
@@ -179,7 +179,7 @@
 {"collection":"muziek_som","lastUpdate":"2024-04-30","duration":"231795","content":[{"SheetMusic":2075}]}
 {"collection":"neerlandschverzetsmonument","lastUpdate":"2024-04-30","duration":"335337","content":[{"Person":58012}]}
 {"collection":"nl_joden_bergen_belsen","lastUpdate":"2024-05-02","duration":"2040","content":[{"Person":4194},{"Event":20525}]}
-{"collection":"obol","lastUpdate":"2024-05-11","duration":"108493","content":[{"Person":2983},{"Event":4988},{"CreativeWork":842}]}
+{"collection":"obol","lastUpdate":"2024-05-12","duration":"11444","content":[{"Person":2983},{"Event":4988},{"CreativeWork":842}]}
 {"collection":"ogs","lastUpdate":"2024-05-07","duration":"87645","content":[{"Person":165439},{"CreativeWork":33324},{"Event":324889}]}
 {"collection":"onderduikkaarten_tresoar","lastUpdate":"2023-11-10","duration":"2241568","content":[{"Person":1584},{"Event":3168},{"CreativeWork":1581}]}
 {"collection":"oorlogsdoden_eindhoven","lastUpdate":"2024-04-30","duration":"203672","content":[{"Event":2433},{"Person":1250},{"CreativeWork":497}]}
@@ -195,9 +195,8 @@
 {"collection":"personen_bij_bombardementen","lastUpdate":"2023-11-10","duration":"2851622","content":[]}
 {"collection":"personen_herinneringscentrum_kam","lastUpdate":"2024-03-11","duration":"134731","content":[{"Person":145792},{"Event":519901}]}
 {"collection":"personen_het_utrechts_archief","lastUpdate":"2024-04-23","duration":"26575","content":[{"Person":19227},{"Event":28384}]}
-{"collection":"personen_master_data","lastUpdate":"2024-05-10","duration":"113382","content":[{"Person":720351},{"Person":720351}]}
+{"collection":"personen_master_data","lastUpdate":"2024-05-12","duration":"114642","content":[{"Person":720351},{"Person":720351}]}
 {"collection":"personen_oranjehotel","lastUpdate":"2024-04-30","duration":"231323","content":[{"Event":12128},{"Person":4858},{"CreativeWork":1512}]}
-{"collection":"persons","lastUpdate":"2024-05-10","duration":"1606665","content":[{"organizationsWO2/PersonalEvent":59},{"Concept":52424},{"Event":4129287},{"SpatialThing":11762},{"Person":1814122},{"CreativeWork":2708327},{"ConceptScheme":6},{"BookFormatType":5},{"EventAttendanceModeEnumeration":3},{"EventStatusType":5},{"Person":720321}]}
 {"collection":"radio_broadcasts_radio_de_branda","lastUpdate":"2024-03-12","duration":"25569","content":[{"AudioObject":12}]}
 {"collection":"radio_broadcasts_radio_herrijzen","lastUpdate":"2024-03-12","duration":"24104","content":[{"Photograph":1},{"AudioObject":75}]}
 {"collection":"radio_broadcasts_radio_oranje","lastUpdate":"2024-03-04","duration":"1252820","content":[{"AudioObject":180}]}
@@ -249,10 +248,10 @@
 {"collection":"wangerooge","lastUpdate":"2024-04-11","duration":"2237","content":[{"Person":314},{"Event":1003}]}
 {"collection":"westerborkkaarten_rotterdam","lastUpdate":"2024-03-28","duration":"557","content":[{"Person":468},{"Event":1398}]}
 {"collection":"wikidata_straten","lastUpdate":"2023-11-10","duration":"886149","content":[]}
-{"collection":"wo2_biografieen","lastUpdate":"2024-05-11","duration":"36485","content":[{"Person":2940},{"Event":5437},{"CreativeWork":1463}]}
+{"collection":"wo2_biografieen","lastUpdate":"2024-05-12","duration":"5675","content":[{"Person":2940},{"Event":5437},{"CreativeWork":1463}]}
 {"collection":"wo2_manual_matches","lastUpdate":"2024-05-02","duration":"1910","content":[{"Person":4087},{"Event":3323},{"Concept":35},{"CreativeWork":6}]}
 {"collection":"wo2_memberof","lastUpdate":"2024-03-28","duration":"353","content":[]}
-{"collection":"wo2_organizations","lastUpdate":"2024-05-11","duration":"106735","content":[{"Concept":667},{"SpatialThing":621},{"ConceptScheme":2}]}
-{"collection":"wo2_thesaurus","lastUpdate":"2024-05-11","duration":"7535","content":[{"organizationsWO2/PersonalEvent":59},{"Concept":16766},{"SpatialThing":10798},{"Event":3563},{"ConceptScheme":6}]}
+{"collection":"wo2_organizations","lastUpdate":"2024-05-12","duration":"65278","content":[{"Concept":667},{"SpatialThing":621},{"ConceptScheme":2}]}
+{"collection":"wo2_thesaurus","lastUpdate":"2024-05-12","duration":"5681","content":[{"organizationsWO2/PersonalEvent":59},{"Concept":16766},{"SpatialThing":10798},{"Event":3563},{"ConceptScheme":6}]}
 {"collection":"wordsmatter","lastUpdate":"2023-11-10","duration":"1256799","content":[{"Person":3}]}
 {"collection":"yad_vashem_archive_netherlands","lastUpdate":"2023-11-10","duration":"777","content":[{"Person":1638},{"Event":2569}]}
