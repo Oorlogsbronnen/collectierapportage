@@ -1,7 +1,7 @@
 {"collection":"affiches_groningen","lastUpdate":"2024-08-31","duration":"2764","content":[{"Photograph":112}]}
 {"collection":"affiches_nmm","lastUpdate":"2024-07-02","duration":"549","content":[{"Photograph":103}]}
 {"collection":"agentenlijst_englandspiel","lastUpdate":"2024-07-01","duration":"501","content":[{"Person":194},{"Event":769},{"CreativeWork":62}]}
-{"collection":"andb_diamantbewerkers","lastUpdate":"2024-09-09","duration":"3883","content":[{"Person":19547},{"CreativeWork":26407},{"Event":19559}]}
+{"collection":"andb_diamantbewerkers","lastUpdate":"2024-09-10","duration":"3965","content":[{"CreativeWork":26407},{"Person":19547},{"Event":19559}]}
 {"collection":"andb_gesperrd","lastUpdate":"2024-05-15","duration":"396","content":[{"Person":555},{"Event":1110}]}
 {"collection":"andb_iisg","lastUpdate":"2023-11-10","duration":"356980","content":[{"Event":27510},{"CreativeWork":27746},{"Person":27678}]}
 {"collection":"arbeidsinzet","lastUpdate":"2024-09-04","duration":"371543","content":[{"Event":734269},{"Person":322141},{"CreativeWork":206218}]}
@@ -123,7 +123,7 @@
 {"collection":"collectie_verzetsmuseumamsterdam","lastUpdate":"2024-05-15","duration":"1962","content":[{"CreativeWork":6814}]}
 {"collection":"collectie_westerbork","lastUpdate":"2024-08-31","duration":"4724","content":[{"CreativeWork":7362},{"Photograph":1399}]}
 {"collection":"commonwealth_war_graves","lastUpdate":"2024-08-06","duration":"3207","content":[{"Person":14746}]}
-{"collection":"crowdsource_links","lastUpdate":"2024-09-09","duration":"2467","content":[]}
+{"collection":"crowdsource_links","lastUpdate":"2024-09-10","duration":"984","content":[]}
 {"collection":"crowdsourcing_vught","lastUpdate":"2024-08-20","duration":"12691","content":[{"Person":25830},{"Event":58403}]}
 {"collection":"dans_oh_gv","lastUpdate":"2024-08-31","duration":"753","content":[{"AudioObject":737}]}
 {"collection":"dans_oh_ni","lastUpdate":"2024-08-31","duration":"927","content":[{"AudioObject":1037}]}
@@ -131,7 +131,7 @@
 {"collection":"delpher","lastUpdate":"2024-08-13","duration":"6875","content":[{"Concept":14},{"Article":36037}]}
 {"collection":"documentatiegroep","lastUpdate":"2024-08-31","duration":"13007","content":[{"Person":41935},{"Event":47424}]}
 {"collection":"drents_archief","lastUpdate":"2024-08-31","duration":"809","content":[{"ArchiveFile":788},{"Archive":14}]}
-{"collection":"drupal","lastUpdate":"2024-09-09","duration":"2592","content":[{"VideoObject":59},{"Person":5}]}
+{"collection":"drupal","lastUpdate":"2024-09-10","duration":"2921","content":[{"VideoObject":59},{"Person":5}]}
 {"collection":"duitseoverlijdensaktes_cbg","lastUpdate":"2024-07-04","duration":"10157","content":[{"Person":17195},{"Event":34099},{"CreativeWork":17092}]}
 {"collection":"dwangarbeiders_ss","lastUpdate":"2024-05-29","duration":"809","content":[{"Event":5391},{"Person":1535}]}
 {"collection":"engelandvaarders","lastUpdate":"2024-05-29","duration":"8395","content":[{"Person":2150},{"Event":3335}]}
@@ -173,7 +173,7 @@
 {"collection":"kamp_ravensbruck","lastUpdate":"2024-09-05","duration":"955","content":[{"Person":1424},{"Event":4632}]}
 {"collection":"kamp_sachsenhausen","lastUpdate":"2024-05-29","duration":"1162","content":[{"Event":6375},{"Person":2455}]}
 {"collection":"kamp_sachsenhausenreinie","lastUpdate":"2024-06-03","duration":"343","content":[{"Person":99},{"Concept":25},{"Event":308}]}
-{"collection":"kamp_stmichielsgestel","lastUpdate":"2024-06-03","duration":"773","content":[{"Person":1425},{"Event":5399}]}
+{"collection":"kamp_stmichielsgestel","lastUpdate":"2024-09-10","duration":"752","content":[{"Person":1425},{"Event":4243}]}
 {"collection":"kamp_theresienstadt","lastUpdate":"2024-05-29","duration":"833","content":[{"Person":2070},{"Event":6209}]}
 {"collection":"kamp_vught","lastUpdate":"2023-11-14","duration":"8060","content":[{"Person":14432},{"Event":29605},{"CreativeWork":14432}]}
 {"collection":"kamp_westerbork","lastUpdate":"2024-05-29","duration":"15159","content":[{"Person":93504},{"Event":280138}]}
@@ -214,10 +214,10 @@
 {"collection":"personen_bij_bombardementen","lastUpdate":"2023-11-10","duration":"2851622","content":[]}
 {"collection":"personen_herinneringscentrum_kam","lastUpdate":"2024-09-09","duration":"144863","content":[{"Event":446679},{"Person":112224}]}
 {"collection":"personen_het_utrechts_archief","lastUpdate":"2024-09-07","duration":"3338","content":[{"Person":19227},{"Event":28384}]}
-{"collection":"personen_kazerne_dossin","lastUpdate":"2024-09-04","duration":"10024","content":[{"Event":83668},{"CreativeWork":20997},{"Person":25843}]}
-{"collection":"personen_master_data","lastUpdate":"2024-09-09","duration":"113024","content":[{"Person":706027},{"Person":706027}]}
+{"collection":"personen_kazerne_dossin","lastUpdate":"2024-09-10","duration":"17427","content":[{"Event":83668},{"CreativeWork":20997},{"Person":25843}]}
+{"collection":"personen_master_data","lastUpdate":"2024-09-10","duration":"112427","content":[{"Person":706027},{"Person":706027}]}
 {"collection":"personen_oranjehotel","lastUpdate":"2024-09-01","duration":"2162","content":[{"Event":12948},{"Person":5120},{"CreativeWork":1658}]}
-{"collection":"persons","lastUpdate":"2024-09-09","duration":"2316562","content":[{"organizationsWO2/PersonalEvent":59},{"Concept":51789},{"SpatialThing":11901},{"Event":4234649},{"Person":1743354},{"CreativeWork":2380850},{"ConceptScheme":6},{"BookFormatType":5},{"EventAttendanceModeEnumeration":3},{"EventStatusType":5},{"Person":705965}]}
+{"collection":"persons","lastUpdate":"2024-09-10","duration":"2304029","content":[{"Concept":51790},{"organizationsWO2/PersonalEvent":59},{"SpatialThing":11902},{"Event":4233496},{"Person":1743515},{"CreativeWork":2380900},{"ConceptScheme":6},{"BookFormatType":5},{"EventAttendanceModeEnumeration":3},{"EventStatusType":5},{"Person":705965}]}
 {"collection":"radio_broadcasts_radio_de_branda","lastUpdate":"2024-07-02","duration":"387","content":[{"AudioObject":12}]}
 {"collection":"radio_broadcasts_radio_herrijzen","lastUpdate":"2024-07-02","duration":"544","content":[{"Photograph":1},{"AudioObject":75}]}
 {"collection":"radio_broadcasts_radio_oranje","lastUpdate":"2024-06-24","duration":"629","content":[{"AudioObject":180}]}
@@ -250,7 +250,7 @@
 {"collection":"subject_sport","lastUpdate":"2024-05-29","duration":"708","content":[{"Person":1264},{"Concept":2481},{"Event":900}]}
 {"collection":"test_dataset_adamlink","lastUpdate":"2023-11-10","duration":"201368","content":[]}
 {"collection":"tewerkstelling_amsterdam","lastUpdate":"2024-09-04","duration":"16083","content":[{"Event":182373},{"Person":63200}]}
-{"collection":"toegangsboek_dachau_reinie","lastUpdate":"2024-05-29","duration":"941","content":[{"Event":7686},{"Person":1691}]}
+{"collection":"toegangsboek_dachau_reinie","lastUpdate":"2024-09-10","duration":"1032","content":[{"Event":7681},{"Person":1690}]}
 {"collection":"transport_buchenwald","lastUpdate":"2023-12-08","duration":"671","content":[{"Event":333},{"Person":70}]}
 {"collection":"transporten_auschwitz","lastUpdate":"2024-05-29","duration":"1479","content":[{"Person":3231},{"Event":12758}]}
 {"collection":"transporten_cosel","lastUpdate":"2024-05-29","duration":"393","content":[{"Event":524},{"Person":108}]}
@@ -272,10 +272,10 @@
 {"collection":"westerborkkaarten_rotterdam","lastUpdate":"2024-05-15","duration":"457","content":[{"Person":468},{"Event":1398}]}
 {"collection":"wikidata_straten","lastUpdate":"2023-11-10","duration":"886149","content":[]}
 {"collection":"wo2_biografieen","lastUpdate":"2024-09-05","duration":"3623","content":[{"Person":2947},{"Event":5441},{"CreativeWork":1462}]}
-{"collection":"wo2_manual_matches","lastUpdate":"2024-09-02","duration":"2634","content":[{"Person":4083},{"Event":3137},{"Concept":35},{"CreativeWork":6}]}
+{"collection":"wo2_manual_matches","lastUpdate":"2024-09-10","duration":"2003","content":[{"Person":4084},{"Event":3138},{"Concept":35},{"CreativeWork":6}]}
 {"collection":"wo2_memberof","lastUpdate":"2024-05-15","duration":"364","content":[]}
-{"collection":"wo2_organizations","lastUpdate":"2024-09-09","duration":"871","content":[{"SpatialThing":635},{"Concept":672},{"ConceptScheme":2}]}
-{"collection":"wo2_personen_pico","lastUpdate":"2024-09-09","duration":"121035","content":[{"https://pico.woltjer.cc/ontology/PersonReconstruction":722981}]}
+{"collection":"wo2_organizations","lastUpdate":"2024-09-10","duration":"656","content":[{"SpatialThing":635},{"Concept":672},{"ConceptScheme":2}]}
+{"collection":"wo2_personen_pico","lastUpdate":"2024-09-10","duration":"109676","content":[{"https://personsincontext.org/ontology/PersonReconstruction":722981}]}
 {"collection":"wo2_thesaurus","lastUpdate":"2024-09-08","duration":"2616","content":[{"Concept":17269},{"organizationsWO2/PersonalEvent":59},{"SpatialThing":10936},{"Event":3597},{"ConceptScheme":6},{"CreativeWork":1}]}
 {"collection":"wordsmatter","lastUpdate":"2023-11-10","duration":"1256799","content":[{"Person":3}]}
 {"collection":"yad_vashem_archive_netherlands","lastUpdate":"2023-11-10","duration":"777","content":[{"Person":1638},{"Event":2569}]}
