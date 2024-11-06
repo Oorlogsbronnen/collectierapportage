@@ -72,7 +72,7 @@
 {"collection":"beeldbank_streekarchief_voornepu","lastUpdate":"2024-10-31","duration":"870","content":[{"Photograph":474}]}
 {"collection":"beeldbank_sudwest_fryslan","lastUpdate":"2024-11-01","duration":"492","content":[{"CreativeWork":41},{"Photograph":329}]}
 {"collection":"beeldbank_tholen","lastUpdate":"2024-11-01","duration":"9380","content":[{"Photograph":92}]}
-{"collection":"beeldbank_tilburg","lastUpdate":"2024-11-01","duration":"1752","content":[{"Photograph":535}]}
+{"collection":"beeldbank_tilburg","lastUpdate":"2024-11-05","duration":"2698","content":[{"Photograph":561}]}
 {"collection":"beeldbank_utrecht","lastUpdate":"2024-11-01","duration":"3778","content":[{"Photograph":4322},{"Book":558},{"CreativeWork":1009},{"VideoObject":2}]}
 {"collection":"beeldbank_waterland","lastUpdate":"2024-11-01","duration":"1852","content":[{"Photograph":871},{"ArchiveFile":91},{"CreativeWork":14},{"VideoObject":2}]}
 {"collection":"beeldbank_weert","lastUpdate":"2024-11-01","duration":"35215","content":[{"Photograph":1489},{"VideoObject":17},{"AudioObject":3}]}
@@ -94,7 +94,7 @@
 {"collection":"bombardement_blauwburgwal","lastUpdate":"2024-05-29","duration":"383","content":[{"Person":44},{"Event":88}]}
 {"collection":"bombardement_rotterdam","lastUpdate":"2024-05-29","duration":"452","content":[{"Event":639},{"Person":639}]}
 {"collection":"brabant_in_beelden__bhic","lastUpdate":"2024-09-24","duration":"621","content":[{"VideoObject":8}]}
-{"collection":"brabantse_gesneuvelden","lastUpdate":"2024-11-03","duration":"1406","content":[{"Event":4280},{"CreativeWork":1437},{"Person":2140}]}
+{"collection":"brabantse_gesneuvelden","lastUpdate":"2024-11-05","duration":"1939","content":[{"Event":4280},{"CreativeWork":1437},{"Person":2140}]}
 {"collection":"bronnen","lastUpdate":"2024-11-05","duration":"216117","content":[{"Archive":67639},{"organizationsWO2/PersonalEvent":59},{"Concept":18009},{"CreativeWork":106297},{"SpatialThing":11634},{"Photograph":443065},{"Event":9049},{"AudioObject":1707},{"Book":103199},{"VideoObject":3738},{"VisualArtwork":1687},{"Person":2956},{"ArchiveFile":583924},{"Article":740},{"ArchiveSeries":34124},{"ConceptScheme":8},{"Monument":4242},{"BookFormatType":5},{"EventAttendanceModeEnumeration":3},{"EventStatusType":5},{"SheetMusic":1972},{"Archive":60}]}
 {"collection":"burgers_achtkarspelen","lastUpdate":"2024-05-29","duration":"392","content":[{"Person":75},{"Event":150}]}
 {"collection":"burgers_damincident","lastUpdate":"2024-05-29","duration":"406","content":[{"Event":64},{"Person":32}]}
@@ -197,8 +197,9 @@
 {"collection":"ogs","lastUpdate":"2024-11-01","duration":"61821","content":[{"Person":177438},{"Event":343693},{"CreativeWork":17750}]}
 {"collection":"onderduikkaarten_tresoar","lastUpdate":"2024-11-04","duration":"1135","content":[{"Person":1584},{"Event":3168},{"CreativeWork":1581}]}
 {"collection":"oorlogsdoden_eindhoven","lastUpdate":"2024-11-01","duration":"1704","content":[{"Event":2493},{"Person":1251},{"CreativeWork":502}]}
+{"collection":"oorlogsdoden_goirle","lastUpdate":"2024-11-05","duration":"960","content":[{"Person":80},{"Event":157},{"CreativeWork":78}]}
 {"collection":"oorlogsdoden_nijmegen","lastUpdate":"2024-06-24","duration":"8540","content":[{"Person":4577},{"Event":8073}]}
-{"collection":"oorlogsdoden_tilburg","lastUpdate":"2024-11-05","duration":"713","content":[{"Event":1503},{"Person":758},{"CreativeWork":564}]}
+{"collection":"oorlogsdoden_tilburg","lastUpdate":"2024-11-05","duration":"693","content":[{"Event":1503},{"Person":758},{"CreativeWork":515}]}
 {"collection":"oorlogslevens_gebeurtenissen","lastUpdate":"2024-05-29","duration":"514","content":[{"Event":426},{"Person":338}]}
 {"collection":"oorlogslevens_organisaties","lastUpdate":"2024-11-05","duration":"344","content":[]}
 {"collection":"oorlogsmonumenten","lastUpdate":"2024-11-01","duration":"2410","content":[{"Monument":4242}]}
@@ -270,7 +271,7 @@
 {"collection":"wo2_manual_matches","lastUpdate":"2024-09-26","duration":"2008","content":[{"Person":4081},{"Event":3135},{"Concept":35},{"CreativeWork":6}]}
 {"collection":"wo2_memberof","lastUpdate":"2024-05-15","duration":"364","content":[]}
 {"collection":"wo2_organizations","lastUpdate":"2024-11-05","duration":"975","content":[{"SpatialThing":635},{"Concept":673},{"ConceptScheme":2}]}
-{"collection":"wo2_personen_pico","lastUpdate":"2024-10-31","duration":"148576","content":[{"https://personsincontext.org/model#PersonObservation":2036474},{"https://personsincontext.org/model#PersonReconstruction":711255}]}
+{"collection":"wo2_personen_pico","lastUpdate":"2024-11-05","duration":"146826","content":[{"https://personsincontext.org/model#PersonObservation":2038484},{"https://personsincontext.org/model#PersonReconstruction":712026}]}
 {"collection":"wo2_thesaurus","lastUpdate":"2024-11-05","duration":"2553","content":[{"Concept":17335},{"organizationsWO2/PersonalEvent":59},{"SpatialThing":10999},{"Event":3589},{"ConceptScheme":6},{"CreativeWork":1}]}
 {"collection":"wordsmatter","lastUpdate":"2023-11-10","duration":"1256799","content":[{"Person":3}]}
 {"collection":"yad_vashem_archive_netherlands","lastUpdate":"2023-11-10","duration":"777","content":[{"Person":1638},{"Event":2569}]}
