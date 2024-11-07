@@ -136,7 +136,7 @@
 {"collection":"duitseoverlijdensaktes_cbg","lastUpdate":"2024-07-04","duration":"10157","content":[{"Person":17195},{"Event":34099},{"CreativeWork":17092}]}
 {"collection":"dwangarbeiders_ss","lastUpdate":"2024-05-29","duration":"809","content":[{"Event":5391},{"Person":1535}]}
 {"collection":"engelandvaarders","lastUpdate":"2024-05-29","duration":"8395","content":[{"Person":2150},{"Event":3335}]}
-{"collection":"erelijst_niod","lastUpdate":"2024-10-30","duration":"9436","content":[{"Event":71848},{"Person":29808}]}
+{"collection":"erelijst_niod","lastUpdate":"2024-11-06","duration":"8898","content":[{"Event":71848},{"Person":29808}]}
 {"collection":"evacuees_sudwest_fryslan","lastUpdate":"2023-11-10","duration":"2587442","content":[{"Person":2593}]}
 {"collection":"gedenkteken_luchtvarenden","lastUpdate":"2024-05-29","duration":"412","content":[{"Person":642}]}
 {"collection":"gemeentearchief_roermond","lastUpdate":"2024-08-12","duration":"3555","content":[{"ArchiveFile":501},{"Archive":1}]}
@@ -199,7 +199,7 @@
 {"collection":"oorlogsdoden_eindhoven","lastUpdate":"2024-11-01","duration":"1704","content":[{"Event":2493},{"Person":1251},{"CreativeWork":502}]}
 {"collection":"oorlogsdoden_goirle","lastUpdate":"2024-11-05","duration":"960","content":[{"Person":80},{"Event":157},{"CreativeWork":78}]}
 {"collection":"oorlogsdoden_nijmegen","lastUpdate":"2024-06-24","duration":"8540","content":[{"Person":4577},{"Event":8073}]}
-{"collection":"oorlogsdoden_tilburg","lastUpdate":"2024-11-05","duration":"693","content":[{"Event":1503},{"Person":758},{"CreativeWork":515}]}
+{"collection":"oorlogsdoden_tilburg","lastUpdate":"2024-11-06","duration":"7423","content":[{"Event":1503},{"Person":758},{"CreativeWork":515}]}
 {"collection":"oorlogslevens_gebeurtenissen","lastUpdate":"2024-05-29","duration":"514","content":[{"Event":426},{"Person":338}]}
 {"collection":"oorlogslevens_organisaties","lastUpdate":"2024-11-05","duration":"344","content":[]}
 {"collection":"oorlogsmonumenten","lastUpdate":"2024-11-01","duration":"2410","content":[{"Monument":4242}]}
