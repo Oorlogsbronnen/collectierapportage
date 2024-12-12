@@ -12,12 +12,12 @@ jobs:
 
     steps:
       - name: Checkout repository content
-        uses: actions/checkout@v4 # Checkout de repository, zodat je toegang hebt tot je script
+        uses: actions/checkout@v4 
 
       - name: Set up Python
         uses: actions/setup-python@v4
         with:
-          python-version: '3.8' # Pas dit aan naar de gewenste Python-versie
+          python-version: '3.8'
 
       - name: Install dependencies
         run: |
@@ -29,7 +29,7 @@ jobs:
           pip install datetime
 
       - name: Run Python Script
-        run: python scriptnaam.py # Vervang 'scriptnaam.py' door de naam van je script
+        run: python update_data.py 
 
       - name: Configure git
         run: |
@@ -38,6 +38,6 @@ jobs:
 
       - name: Commit and Push Changes
         run: |
-          git add data/ # Voeg alleen bestanden in de map `data` toe (of pas dit aan naar je behoeften)
+          git add data/ # Voeg alleen bestanden in de map `data` toe
           git diff-index --quiet HEAD || git commit -m "Automated update by script"
           git push
