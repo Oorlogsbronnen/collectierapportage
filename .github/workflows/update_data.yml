@@ -1,0 +1,43 @@
+name: update_date
+
+# The workflow is triggered by changes to the repository, a scheduled monthly run, and manual dispatch.
+on:
+  schedule:
+    - cron: '0 6 * * *'
+  workflow_dispatch:
+
+jobs:
+  run-script:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository content
+        uses: actions/checkout@v4 # Checkout de repository, zodat je toegang hebt tot je script
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.8' # Pas dit aan naar de gewenste Python-versie
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install rdflib
+          pip install json
+          pip install os
+          pip install csv
+          pip install datetime
+
+      - name: Run Python Script
+        run: python scriptnaam.py # Vervang 'scriptnaam.py' door de naam van je script
+
+      - name: Configure git
+        run: |
+          git config --local user.email "your-email@example.com"
+          git config --local user.name "GitHub Actions"
+
+      - name: Commit and Push Changes
+        run: |
+          git add data/ # Voeg alleen bestanden in de map `data` toe (of pas dit aan naar je behoeften)
+          git diff-index --quiet HEAD || git commit -m "Automated update by script"
+          git push
