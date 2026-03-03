@@ -6,7 +6,7 @@ import time
 # --- CONFIGURATIE ---
 # Pas deze lijst aan naar de velden die je in je CSV wilt zien
 GEWENSTE_KOLOMMEN = ['dateCreated', 'id', 'name', 'birthDate', 'birthPlace', 'deathDate', 'deathPlace']
-FILENAME = 'personen_output.csv'
+FILENAME = 'data/new_persons.csv'
 COUNT_PER_PAGE = 100
 BASE_URL = "https://rest.spinque.com/4/oorlogsbronnen/api/lod/e/new_persons/resultpage?config=default"
 
