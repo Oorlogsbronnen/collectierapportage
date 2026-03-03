@@ -2,6 +2,8 @@ name: update_data
 
 # The workflow is triggered by changes to the repository, a scheduled monthly run, and manual dispatch.
 on:
+  schedule:
+    - cron: '0 09 * * *'
   workflow_dispatch:
 
 jobs:
