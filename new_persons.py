@@ -6,7 +6,7 @@ import time
 # --- CONFIGURATIE ---
 GEWENSTE_KOLOMMEN = ['dateCreated', 'id', 'name', 'birthDate', 'birthPlace', 'deathDate', 'deathPlace']
 FOLDER = 'data'
-FILENAME = os.path.join(FOLDER, 'personen_output.csv')
+FILENAME = os.path.join(FOLDER, 'new_persons.csv')
 COUNT_PER_PAGE = 100
 BASE_URL = "https://rest.spinque.com/4/oorlogsbronnen/api/lod/e/new_persons/resultpage?config=default"
 
