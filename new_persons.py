@@ -4,7 +4,7 @@ import os
 import time
 
 # --- CONFIGURATIE ---
-GEWENSTE_KOLOMMEN = ['dateCreated', 'id', 'name', 'birthDate', 'birthPlace', 'deathDate', 'deathPlace']
+GEWENSTE_KOLOMMEN = ['dateCreated', 'id', 'name', 'birthDate', 'birthPlace', 'deathDate', 'deathPlace', 'alternateName']
 FOLDER = 'data'
 FILENAME = os.path.join(FOLDER, 'new_persons.csv')
 COUNT_PER_PAGE = 100
